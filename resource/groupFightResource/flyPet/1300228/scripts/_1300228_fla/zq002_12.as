@@ -1,0 +1,21 @@
+package _1300228_fla
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol23")]
+   public dynamic class zq002_12 extends MovieClip
+   {
+      
+      public function zq002_12()
+      {
+         super();
+         addFrameScript(4,frame5);
+      }
+      
+      internal function frame5() : *
+      {
+         gotoAndPlay(1);
+      }
+   }
+}
+

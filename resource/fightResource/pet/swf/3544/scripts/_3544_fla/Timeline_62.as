@@ -1,0 +1,33 @@
+package _3544_fla
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol534")]
+   public dynamic class Timeline_62 extends MovieClip
+   {
+      
+      public var hit:*;
+      
+      public function Timeline_62()
+      {
+         super();
+         addFrameScript(0,frame1,29,frame30,64,frame65);
+      }
+      
+      internal function frame1() : *
+      {
+         stop();
+      }
+      
+      internal function frame30() : *
+      {
+         hit = 1;
+      }
+      
+      internal function frame65() : *
+      {
+         stop();
+      }
+   }
+}
+

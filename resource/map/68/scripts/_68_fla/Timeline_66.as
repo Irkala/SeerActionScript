@@ -1,0 +1,24 @@
+package _68_fla
+{
+   import flash.display.MovieClip;
+   import flash.display.SimpleButton;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol187")]
+   public dynamic class Timeline_66 extends MovieClip
+   {
+      
+      public var next:SimpleButton;
+      
+      public function Timeline_66()
+      {
+         super();
+         addFrameScript(74,frame75);
+      }
+      
+      internal function frame75() : *
+      {
+         stop();
+      }
+   }
+}
+

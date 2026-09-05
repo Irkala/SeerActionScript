@@ -1,0 +1,37 @@
+package _45_fla
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol1127")]
+   public dynamic class n_4a8aesqvcbv_90 extends MovieClip
+   {
+      
+      public var mc1:MovieClip;
+      
+      public var mc2:MovieClip;
+      
+      public var mc3:MovieClip;
+      
+      public var mc4:MovieClip;
+      
+      public var mc5:MovieClip;
+      
+      public var mc6:MovieClip;
+      
+      public var mc7:MovieClip;
+      
+      public var mc8:MovieClip;
+      
+      public function n_4a8aesqvcbv_90()
+      {
+         super();
+         addFrameScript(0,frame1);
+      }
+      
+      internal function frame1() : *
+      {
+         stop();
+      }
+   }
+}
+

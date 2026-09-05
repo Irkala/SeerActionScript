@@ -1,0 +1,15 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol502")]
+   public dynamic class teamIcon_bg_25 extends MovieClip
+   {
+      
+      public function teamIcon_bg_25()
+      {
+         super();
+      }
+   }
+}
+

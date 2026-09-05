@@ -1,0 +1,23 @@
+package _445_fla
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol362")]
+   public dynamic class n_2mlnumt4klsg_110 extends MovieClip
+   {
+      
+      public var mc2:MovieClip;
+      
+      public function n_2mlnumt4klsg_110()
+      {
+         super();
+         addFrameScript(0,this.frame1);
+      }
+      
+      internal function frame1() : *
+      {
+         stop();
+      }
+   }
+}
+

@@ -1,0 +1,21 @@
+package _1300125_fla
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol117")]
+   public dynamic class hh078_23 extends MovieClip
+   {
+      
+      public function hh078_23()
+      {
+         super();
+         addFrameScript(23,frame24);
+      }
+      
+      internal function frame24() : *
+      {
+         gotoAndPlay(1);
+      }
+   }
+}
+

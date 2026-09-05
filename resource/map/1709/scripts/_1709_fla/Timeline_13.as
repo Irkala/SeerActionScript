@@ -1,0 +1,24 @@
+package _1709_fla
+{
+   import flash.display.MovieClip;
+   import flash.display.SimpleButton;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol45")]
+   public dynamic class Timeline_13 extends MovieClip
+   {
+      
+      public var movingYitaBtn:SimpleButton;
+      
+      public function Timeline_13()
+      {
+         super();
+         addFrameScript(0,frame1);
+      }
+      
+      internal function frame1() : *
+      {
+         stop();
+      }
+   }
+}
+
